@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/BubbleSortByStep/BubbleSortByStep.iml" filepath="$PROJECT_DIR$/BubbleSortByStep/BubbleSortByStep.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Bài 14.iml" filepath="$PROJECT_DIR$/.idea/Bài 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetupBubbleSort/SetupBubbleSort.iml" filepath="$PROJECT_DIR$/SetupBubbleSort/SetupBubbleSort.iml" />
     </modules>
   </component>
